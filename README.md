@@ -18,22 +18,6 @@ I'm Vamsi from India a passionate Cloud and DevOps Engineer with a knack for aut
 <img align="left" alt="Python" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="MySql" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
-## Table of Contents
-- [Languages and Tools](#git)
-- [Scripting](#scripting)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Languages and Tools
-
-List of languages and tools used in the project:
-
-- **Language 1:** Description or purpose.
-- **Language 2:** Description or purpose.
-- **Tool 1:** Description or purpose.
-- **Tool 2:** Description or purpose.
 
 
 
