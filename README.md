@@ -1,20 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Vamsi Krishna
+#### Cloud and DevOps Engineer
+![Cloud and DevOps Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Vamsi from India. I am working Cloud and DevOps Engineer.
+Hello there! 👋 I'm Vamsi Krishna, a passionate Cloud and DevOps Engineer with a knack for automation. I thrive in architecting scalable and resilient cloud infrastructures while automating mundane tasks to enhance efficiency and reliability.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VamsiKrishna)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**VamsiKrishna-Kancherla/VamsiKrishna-Kancherla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: AWS, Azure, GCP
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 
