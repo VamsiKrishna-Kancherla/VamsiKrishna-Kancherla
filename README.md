@@ -5,6 +5,12 @@ I'm Vamsi from India a passionate Cloud and DevOps Engineer with a knack for aut
 
 ## Skills
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
 
 - 🔭 I’m currently working on this page. 
 
