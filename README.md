@@ -4,7 +4,7 @@
 I'm Vamsi from India a passionate Cloud and DevOps Engineer with a knack for automation. I thrive in architecting scalable and resilient cloud infrastructures while automating mundane tasks to enhance efficiency and reliability.
 
 ## Skills
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 
 - 🔭 I’m currently working on this page. 
 
