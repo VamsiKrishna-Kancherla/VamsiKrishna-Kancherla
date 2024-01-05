@@ -12,13 +12,11 @@ I'm Vamsi from India a passionate Cloud and DevOps Engineer with a knack for aut
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"/>
 
-## Scripting
-<img align="right" alt="Kubernetes" width="70px" style="padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="right" alt="Kubernetes" width="70px" style="padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="right" alt="Kubernetes" width="70px" style="padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+### Scripting
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
-### Work
-🔭 I’m currently working on e-commerce.
 
 
 
