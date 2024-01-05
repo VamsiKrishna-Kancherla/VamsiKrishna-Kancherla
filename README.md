@@ -6,13 +6,16 @@ I'm Vamsi from India a passionate Cloud and DevOps Engineer with a knack for aut
 ## Skills
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
-<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
-<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
-<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
-<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on e-commerce. 
 
 
 
